@@ -595,7 +595,7 @@ export default function HomePage() {
                 <MapPin className="w-8 h-8" />
               </div>
               <h4 className="font-semibold mb-2">Location</h4>
-              <p className="text-orange-100">Village, Taluka, District</p>
+              <p className="text-orange-100">श्री गजानन महाराज हौसिंग सोसायटी, श्री गजानन महाराज मंदिरा जवळ, चांदवड</p>
             </div>
           </div>
           <Button
